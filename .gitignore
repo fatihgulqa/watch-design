@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Scratch / debug scripts and output dumps
+tmp_*.py
+tmp_*.txt
+*_out*.txt
+
+# FreeCAD backups
+*.FCBak
+*.bak.FCStd
